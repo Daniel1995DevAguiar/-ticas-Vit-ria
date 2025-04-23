@@ -215,7 +215,7 @@ header nav a:hover {
     display: flex;
     background-color: #343c6c;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 #servicos figure {
@@ -229,6 +229,7 @@ header nav a:hover {
     width: 300px;
     height: 300px;
     border-radius: 100%;
+    object-fit: cover;
 }
 
 #servicos p,
