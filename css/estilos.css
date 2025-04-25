@@ -193,7 +193,6 @@ header nav a:hover {
 #sobre article figure img {
     width: 100%;
     height: 100%;
-    border-radius: 100% 100% 0 0;
 }
 
 /********************FIM SEÇÃO SOBRE**************************/
@@ -312,7 +311,7 @@ p {
 }
 
 strong {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 
 #depoimentos img {
