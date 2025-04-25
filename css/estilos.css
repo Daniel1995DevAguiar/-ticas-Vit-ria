@@ -458,6 +458,7 @@ span {
 
 
     /*INICIO SEÇÃO SOBRE*/
+
     #sobre article {
         width: 100%;
     }
@@ -467,6 +468,7 @@ span {
     }
     
     #sobre article p {
+        width: 100%;
         line-height: 30px;
         margin-top: 0;
         text-align: justify;
@@ -638,6 +640,7 @@ span {
     }
     
     #sobre article p {
+        width: 100%;
         line-height: 30px;
         margin-top: 0;
         text-align: justify;
